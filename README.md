@@ -1,6 +1,6 @@
 # Prototype-Datapipeline
-Datapipeline NLP
-This manual describes the use of this solution to get impactful analysis from real-time streamed data which helps companies stakeholder, Business management,event management ,eCommerce ,Bussiness marketing and event marketing to evaluate their goods , product, and services. It allow users to collect information from  various sources through various links over the internet with one search event related to similar interest.we compact the various information from various links which comprehend the intent of users and  provide them an  impactful content with extractive summary.
+
+This module describes the use of this solution to get impactful analysis from real-time streamed data which helps companies stakeholder, Business management,event management ,eCommerce ,Bussiness marketing and event marketing to evaluate their goods , product, and services. It allow users to collect information from  various sources through various links over the internet with one search event related to similar interest.we compact the various information from various links which comprehend the intent of users and  provide them an  impactful content with extractive summary.
 Using this solution  puts pertinent information at your fingertips, allowing you to spend less time searching for information and just a few minutes of  researching the event and you’re sure to find what works for you. 
 It gives credibility to users and helps in business optimization.
 
