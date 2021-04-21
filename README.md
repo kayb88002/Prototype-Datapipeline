@@ -1,3 +1,4 @@
+![Uploading screencapture-54-208-148-63-Dashboard-dashboard2-php-2021-04-21-12_53_18.png…]()
 # Prototype-Datapipeline
 
 This module describes the use of this solution to get impactful analysis from real-time streamed data which helps companies stakeholder, Business management,event management ,eCommerce ,Bussiness marketing and event marketing to evaluate their goods , product, and services. It allow users to collect information from  various sources through various links over the internet with one search event related to similar interest.we compact the various information from various links which comprehend the intent of users and  provide them an  impactful content with extractive summary.
